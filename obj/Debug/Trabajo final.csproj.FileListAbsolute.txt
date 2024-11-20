@@ -1,0 +1,68 @@
+C:\Pablo\Archivos\Desarrollo de Software\Semestre II\Herramientas 1\Trabajo final\Trabajo final\obj\Debug\Trabajo final.csproj.AssemblyReference.cache
+C:\Pablo\Archivos\Desarrollo de Software\Semestre II\Herramientas 1\Trabajo final\Trabajo final\obj\Debug\Trabajo_final.UserControl1.resources
+C:\Pablo\Archivos\Desarrollo de Software\Semestre II\Herramientas 1\Trabajo final\Trabajo final\obj\Debug\Trabajo_final.Properties.Resources.resources
+C:\Pablo\Archivos\Desarrollo de Software\Semestre II\Herramientas 1\Trabajo final\Trabajo final\obj\Debug\Trabajo final.csproj.GenerateResource.cache
+C:\Pablo\Archivos\Desarrollo de Software\Semestre II\Herramientas 1\Trabajo final\Trabajo final\obj\Debug\Trabajo final.csproj.CoreCompileInputs.cache
+C:\Pablo\Archivos\Desarrollo de Software\Semestre II\Herramientas 1\Trabajo final\Trabajo final\bin\Debug\Trabajo final.exe.config
+C:\Pablo\Archivos\Desarrollo de Software\Semestre II\Herramientas 1\Trabajo final\Trabajo final\bin\Debug\Trabajo final.exe
+C:\Pablo\Archivos\Desarrollo de Software\Semestre II\Herramientas 1\Trabajo final\Trabajo final\bin\Debug\Trabajo final.pdb
+C:\Pablo\Archivos\Desarrollo de Software\Semestre II\Herramientas 1\Trabajo final\Trabajo final\obj\Debug\Trabajo final.exe
+C:\Pablo\Archivos\Desarrollo de Software\Semestre II\Herramientas 1\Trabajo final\Trabajo final\obj\Debug\Trabajo final.pdb
+C:\Pablo\Archivos\Desarrollo de Software\Semestre II\Herramientas 1\Trabajo final\Trabajo final\obj\Debug\Trabajo_final.Form2.resources
+C:\Pablo\Archivos\Desarrollo de Software\Semestre II\Herramientas 1\Trabajo final\Trabajo final\obj\Debug\Trabajo_final.Form3.resources
+C:\Pablo\Archivos\Desarrollo de Software\Semestre II\Herramientas 1\Trabajo final\Trabajo final\obj\Debug\Trabajo_final.Form4.resources
+C:\Pablo\Archivos\Desarrollo de Software\Semestre II\Herramientas 1\Trabajo final\Trabajo final\obj\Debug\Trabajo_final.Form5.resources
+C:\Pablo\Archivos\Desarrollo de Software\Semestre II\Herramientas 1\Trabajo final\Trabajo final\obj\Debug\Trabajo_final.Form6.resources
+C:\Pablo\Archivos\Desarrollo de Software\Semestre II\Herramientas 1\Trabajo final\Trabajo final\obj\Debug\Trabajo_final.Form7.resources
+C:\Pablo\Archivos\Desarrollo de Software\Semestre II\Herramientas 1\Trabajo final\Trabajo final\obj\Debug\Trabajo_final.Form8.resources
+C:\TrabajoFinal\obj\Debug\Trabajo final.csproj.AssemblyReference.cache
+C:\TrabajoFinal\obj\Debug\Trabajo_final.UserControl1.resources
+C:\TrabajoFinal\obj\Debug\Trabajo_final.Form2.resources
+C:\TrabajoFinal\obj\Debug\Trabajo_final.Form3.resources
+C:\TrabajoFinal\obj\Debug\Trabajo_final.Form4.resources
+C:\TrabajoFinal\obj\Debug\Trabajo_final.Form5.resources
+C:\TrabajoFinal\obj\Debug\Trabajo_final.Form6.resources
+C:\TrabajoFinal\obj\Debug\Trabajo_final.Form7.resources
+C:\TrabajoFinal\obj\Debug\Trabajo_final.Form8.resources
+C:\TrabajoFinal\obj\Debug\Trabajo_final.Properties.Resources.resources
+C:\TrabajoFinal\obj\Debug\Trabajo final.csproj.GenerateResource.cache
+C:\TrabajoFinal\obj\Debug\Trabajo final.csproj.CoreCompileInputs.cache
+C:\TrabajoFinal\obj\Debug\Trabajo final.exe
+C:\TrabajoFinal\obj\Debug\Trabajo final.pdb
+C:\TrabajoFinal\bin\Debug\Trabajo final.exe.config
+C:\TrabajoFinal\bin\Debug\Trabajo final.exe
+C:\TrabajoFinal\bin\Debug\Trabajo final.pdb
+C:\Users\Pablo\Source\Repos\TrabajoFinal\bin\Debug\Trabajo final.exe.config
+C:\Users\Pablo\Source\Repos\TrabajoFinal\bin\Debug\Trabajo final.exe
+C:\Users\Pablo\Source\Repos\TrabajoFinal\bin\Debug\Trabajo final.pdb
+C:\Users\Pablo\Source\Repos\TrabajoFinal\obj\Debug\Trabajo final.csproj.AssemblyReference.cache
+C:\Users\Pablo\Source\Repos\TrabajoFinal\obj\Debug\Trabajo_final.UserControl1.resources
+C:\Users\Pablo\Source\Repos\TrabajoFinal\obj\Debug\Trabajo_final.Form2.resources
+C:\Users\Pablo\Source\Repos\TrabajoFinal\obj\Debug\Trabajo_final.Form3.resources
+C:\Users\Pablo\Source\Repos\TrabajoFinal\obj\Debug\Trabajo_final.Form4.resources
+C:\Users\Pablo\Source\Repos\TrabajoFinal\obj\Debug\Trabajo_final.Form5.resources
+C:\Users\Pablo\Source\Repos\TrabajoFinal\obj\Debug\Trabajo_final.Form6.resources
+C:\Users\Pablo\Source\Repos\TrabajoFinal\obj\Debug\Trabajo_final.Form7.resources
+C:\Users\Pablo\Source\Repos\TrabajoFinal\obj\Debug\Trabajo_final.Form8.resources
+C:\Users\Pablo\Source\Repos\TrabajoFinal\obj\Debug\Trabajo_final.Properties.Resources.resources
+C:\Users\Pablo\Source\Repos\TrabajoFinal\obj\Debug\Trabajo final.csproj.GenerateResource.cache
+C:\Users\Pablo\Source\Repos\TrabajoFinal\obj\Debug\Trabajo final.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\Source\Repos\TrabajoFinal\obj\Debug\Trabajo final.exe
+C:\Users\Pablo\Source\Repos\TrabajoFinal\obj\Debug\Trabajo final.pdb
+C:\Trabajo\TrabajoFinal\bin\Debug\Trabajo final.exe.config
+C:\Trabajo\TrabajoFinal\bin\Debug\Trabajo final.exe
+C:\Trabajo\TrabajoFinal\bin\Debug\Trabajo final.pdb
+C:\Trabajo\TrabajoFinal\obj\Debug\Trabajo final.csproj.AssemblyReference.cache
+C:\Trabajo\TrabajoFinal\obj\Debug\Trabajo_final.UserControl1.resources
+C:\Trabajo\TrabajoFinal\obj\Debug\Trabajo_final.Form2.resources
+C:\Trabajo\TrabajoFinal\obj\Debug\Trabajo_final.Form3.resources
+C:\Trabajo\TrabajoFinal\obj\Debug\Trabajo_final.Form4.resources
+C:\Trabajo\TrabajoFinal\obj\Debug\Trabajo_final.Form5.resources
+C:\Trabajo\TrabajoFinal\obj\Debug\Trabajo_final.Form6.resources
+C:\Trabajo\TrabajoFinal\obj\Debug\Trabajo_final.Form7.resources
+C:\Trabajo\TrabajoFinal\obj\Debug\Trabajo_final.Form8.resources
+C:\Trabajo\TrabajoFinal\obj\Debug\Trabajo_final.Properties.Resources.resources
+C:\Trabajo\TrabajoFinal\obj\Debug\Trabajo final.csproj.GenerateResource.cache
+C:\Trabajo\TrabajoFinal\obj\Debug\Trabajo final.csproj.CoreCompileInputs.cache
+C:\Trabajo\TrabajoFinal\obj\Debug\Trabajo final.exe
+C:\Trabajo\TrabajoFinal\obj\Debug\Trabajo final.pdb
